@@ -17,7 +17,7 @@
     * [使用空間統計計算每個鄉鎮包含多少病例數](ex02/step-05.md)
     * [變更統計結果圖層樣式](ex02/step-06.md)
     * [顯示鄉鎮名稱標籤](ex02/step-07.md)
-    * step-08
+    * [設定彈出視窗內容](ex02/step-08.md)
     * step-09
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
