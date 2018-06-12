@@ -33,10 +33,19 @@
 
     ![](/assets/ex02/image34.png)
     
-6.  選擇合適的色階，並修改外框樣式，然後按【確定】
+7.  選擇合適的色階，並修改外框樣式，然後按【確定】
 
-    ![](/assets/ex02/image35.png)
+    <table>
+        <tbody>
+        <tr>
+            <td style="width: 200px; text-align: center;"><img src="/assets/ex02/image35.png" alt="" /></td>
+            <td style="width: 200px; text-align: center;"><img src="/assets/ex02/image36.png" alt="" /></td>
+            </tr>
+        </tbody>
+    </table>
     
-1.  按【確定】按【完成】，完成符號樣式設計
+8.  按【確定】，再按【完成】，完成符號樣式設計
+    
+    ![](/assets/ex02/image38.png)
 
-    ![](/assets/ex02/image29.png)
+    
