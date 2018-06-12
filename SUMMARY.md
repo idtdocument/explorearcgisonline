@@ -9,7 +9,6 @@
     * [變更時間軸播放方式](ex01/step-04.md)
     * [使用熱區圖顯示病例擴散情況](ex01/step-05.md)
     * [儲存地圖](ex01/step-06.md)
-    * step-04
   * [02.登革熱病例統計地圖](ex02/README.md)
     * [將Shapefile變成雲端圖層服務](ex02/step-01.md)
     * [step-02](ex02/step-02.md)
