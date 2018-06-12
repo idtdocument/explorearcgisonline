@@ -30,8 +30,9 @@
 
 5.  滑鼠移動到【台灣鄉鎮界】圖層上，點選【‧‧‧】按鈕，選擇【移除】
 
-    ![](/assets/ex02/image26.png)
+    ![](/assets/ex02/image26.png)  ![](/assets/ex02/image28.png)
+
     
 6.  滑鼠移動到【台南登革熱病例數】圖層上，點選【‧‧‧】按鈕，選擇【移除】
 
-    ![](/assets/ex02/image27.png)
+    ![](/assets/ex02/image27.png) ![](/assets/ex02/image28.png)
