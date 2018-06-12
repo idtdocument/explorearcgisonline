@@ -25,3 +25,5 @@
     ![](/assets/ex02/image17.png)
 
 7.  目前地圖中會有兩幅主題圖層，如下圖所示
+
+    ![](/assets/ex02/image18.png)
