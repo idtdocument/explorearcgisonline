@@ -4,7 +4,7 @@
 * [案例練習](an-li-lian-xi.md)
   * [01.登革熱疫情擴散地圖](ex01/README.md)
     * [將表格資料轉成雲端圖層服務](ex01/step-01.md)
-    * [step-02](ex01/step-02.md)
+    * [啟用時間序列功能](ex01/step-02.md)
   * [02.登革熱病例統計地圖](ex02/README.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
