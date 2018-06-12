@@ -12,7 +12,7 @@
   * [02.登革熱病例統計地圖](ex02/README.md)
     * [將Shapefile變成雲端圖層服務](ex02/step-01.md)
     * [在圖台中加入全台鄉鎮界圖層](ex02/step-02.md)
-    * step-03
+    * [篩選台南市範圍的圖層](ex02/step-03.md)
     * step-04
     * step-05
     * step-06
