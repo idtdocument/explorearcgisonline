@@ -16,9 +16,26 @@
 
 6.  設定圖層項目內容
 
-【內容】設定為Shapefile
-
-確定 將此檔案發佈為託管的圖層
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:50px; text-align: justify;"><b>內容</b></td>
+                <td style="text-align: justify;">設定為Shapefile</td>
+            </tr>
+            <tr>
+                <td style="width:50px; text-align: justify;"><b>將此檔案發佈為託管的圖層</b></td>
+                <td style="text-align: justify;">確定勾選</td>
+            </tr>
+            <tr>
+                <td style="width:50px; text-align: justify;"><b>圖層標題</b></td>
+                <td style="text-align: justify;">全台鄉鎮界</td>
+            </tr>
+            <tr>
+                <td style="width:50px; text-align: justify;"><b>圖層標題</b></td>
+                <td style="text-align: justify;">全台鄉鎮界</td>
+            </tr>
+    </tbody>
+    </table>
 
 輸入圖層標題
 
