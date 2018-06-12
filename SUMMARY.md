@@ -11,7 +11,7 @@
     * [儲存地圖](ex01/step-06.md)
   * [02.登革熱病例統計地圖](ex02/README.md)
     * [step-01](ex02/step-01.md)
-    * step-02
+    * [step-02](ex02/step-02.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
     * [設定網頁樣式](ex03/step-02.md)
