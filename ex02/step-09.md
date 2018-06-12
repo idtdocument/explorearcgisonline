@@ -22,5 +22,3 @@
             </tr>
         </tbody>
     </table>
-    
-    ![](/assets/ex02/image50.png)
