@@ -8,7 +8,7 @@
     * [在雲端圖台中加入圖層](ex01/step-03.md)
     * [變更時間軸播放方式](ex01/step-04.md)
     * [使用熱區圖顯示病例擴散情況](ex01/step-05.md)
-    * step-06
+    * [儲存地圖](ex01/step-06.md)
   * [02.登革熱病例統計地圖](ex02/README.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
