@@ -2,9 +2,9 @@
 
 1.  打開ArcGIS Online，使用以下資訊登入
     
-    網址：https://www.arcgis.com/features/index.html
-    帳號：您的帳號
-    密碼：您的密碼
+    - 網址：[https://www.arcgis.com](https://www.arcgis.com)
+    - 帳號：您的帳號
+    - 密碼：您的密碼
 
 2.  點選【繪圖】，開啟線上圖台
     
