@@ -13,7 +13,7 @@
     * [將Shapefile變成雲端圖層服務](ex02/step-01.md)
     * [在圖台中加入全台鄉鎮界圖層](ex02/step-02.md)
     * [篩選台南市範圍的圖層](ex02/step-03.md)
-    * step-04
+    * [加入登革熱病例數圖層](ex02/step-04.md)
     * step-05
     * step-06
     * step-07
