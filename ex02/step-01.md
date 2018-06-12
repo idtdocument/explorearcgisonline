@@ -8,13 +8,21 @@
 
 2.  切換到【內容】頁面
 
+    ![](/assets/ex02/image2.png)
+    
 3.  點選【新增項目】
+    
+    ![](/assets/ex02/image3.png)
 
 4.  選擇來【自我的電腦】
 
-5.  點選【選擇檔案】按鈕，選擇【課堂練習/data/台灣鄉鎮界.zip】
+    ![](/assets/ex02/image4.png)
 
-6.  設定圖層項目內容
+5.  點選【選擇檔案】按鈕，選擇【台灣鄉鎮界.zip】
+    
+    ![](/assets/ex02/image5.png)
+
+6.  **設定圖層項目**
 
     <table>
         <tbody>
@@ -36,5 +44,7 @@
             </tr>
         </tbody>
     </table>
+    
+    ![](/assets/ex02/image6.png)
 
-1.  點選【增加項目】，將Shapefile轉為雲端圖層服務
+7.  點選【增加項目】，將Shapefile轉為雲端圖層服務
