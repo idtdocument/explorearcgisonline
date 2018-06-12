@@ -2,15 +2,15 @@
 
 1.  登入ArcGIS Online
     
-    網址：[https://www.arcgis.com](https://www.arcgis.com)
-    帳號：您的帳號
-    密碼：您的密碼
+    - 網址：[https://www.arcgis.com](https://www.arcgis.com)
+    - 帳號：您的帳號
+    - 密碼：您的密碼
 
-2.  切換到【內容】頁面，在項目類型中點選【Web地圖】，找到[案例01](/ex01/README.md)製作的【台南登革熱擴散變化】地圖
+2.  切換到【內容】頁面，在項目類型中點選【Web地圖】，找到[單元01](/ex01/README.md)製作的【台南登革熱擴散變化】地圖
 
     ![](/assets/ex03/image2.png)
 
-3.  在【台南登革熱擴散變化】地圖右方，點選…按鈕，選擇在【地圖檢視器中開啟】
+3.  在【台南登革熱擴散變化】地圖右方，點選【…】按鈕，選擇在【地圖檢視器中開啟】
 
     ![](/assets/ex03/image3.png)
 
