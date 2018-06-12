@@ -70,15 +70,15 @@
 	<table>
 		<tbody>
 			<tr>
-				<td style="text-align: justify;"><b>稍後傳送</b></td>
+				<td style="width: 20px; text-align: justify;"><b>稍後傳送</b></td>
 				<td style="text-align: justify;">代表你蒐集的這一筆數據會暫時儲存在行動裝置中，等到有網路的時候，再把資料傳送到ArcGIS Online上，後續步驟，請見步驟8 </td>
 			</tr>
 			<tr>
-				<td style="text-align: justify;"><b>立即傳送</b></td>
+				<td style="width: 20px; text-align: justify;"><b>立即傳送</b></td>
 				<td style="text-align: justify;">直接將你蒐集的這一筆數據傳送到ArcGIS Online上</td>
 			</tr>
 			<tr>
-				<td style="text-align: justify;"><b>繼續此調查</b></td>
+				<td style="width: 20px; text-align: justify;"><b>繼續此調查</b></td>
 				<td style="text-align: justify;">修改正在蒐集的這一筆數據資料</td>
 			</tr>
 		</tbody>
