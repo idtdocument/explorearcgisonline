@@ -1,7 +1,7 @@
 # Summary
 
 * [摘要](README.md)
-* [案例練習](an-li-lian-xi.md)
+* [主題單元](an-li-lian-xi.md)
   * [01.登革熱疫情擴散地圖](ex01/README.md)
     * [將表格資料轉成雲端圖層服務](ex01/step-01.md)
     * [啟用時間序列功能](ex01/step-02.md)
@@ -29,5 +29,4 @@
     * [建立問卷調查表](ex07/step-01.md)
     * [開始調查數據](ex07/step-02.md)
     * [瀏覽即時調查結果](ex07/step-03.md)
-
 
