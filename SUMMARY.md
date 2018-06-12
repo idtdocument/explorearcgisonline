@@ -7,7 +7,7 @@
     * [啟用時間序列功能](ex01/step-02.md)
     * [在雲端圖台中加入圖層](ex01/step-03.md)
     * [變更時間軸播放方式](ex01/step-04.md)
-    * [step-05](ex01/step-05.md)
+    * [使用熱區圖顯示病例擴散情況](ex01/step-05.md)
     * step-06
   * [02.登革熱病例統計地圖](ex02/README.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
