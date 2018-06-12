@@ -19,6 +19,6 @@ ArcGIS Online 訂閱帳號
 
 ### 練習資料
 
-[單元01](/ex01/)製作的登革熱擴散地圖
+[單元01](/ex01/README.md)製作的登革熱擴散地圖
 
 ![](/assets/ex03/image1.png)
