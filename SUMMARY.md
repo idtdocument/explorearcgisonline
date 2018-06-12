@@ -18,7 +18,7 @@
     * [變更統計結果圖層樣式](ex02/step-06.md)
     * [顯示鄉鎮名稱標籤](ex02/step-07.md)
     * [設定彈出視窗內容](ex02/step-08.md)
-    * step-09
+    * [儲存地圖](ex02/step-09.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
     * [設定網頁樣式](ex03/step-02.md)
