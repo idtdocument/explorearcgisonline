@@ -9,9 +9,17 @@
     * [變更時間軸播放方式](ex01/step-04.md)
     * [使用熱區圖顯示病例擴散情況](ex01/step-05.md)
     * [儲存地圖](ex01/step-06.md)
+    * step-04
   * [02.登革熱病例統計地圖](ex02/README.md)
     * [step-01](ex02/step-01.md)
     * [step-02](ex02/step-02.md)
+    * step-03
+    * step-04
+    * step-05
+    * step-06
+    * step-07
+    * step-08
+    * step-09
   * [03.登革熱疫情擴散App](ex03/README.md)
     * [套用Time Aware樣板](ex03/step-01.md)
     * [設定網頁樣式](ex03/step-02.md)
