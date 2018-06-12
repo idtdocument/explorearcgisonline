@@ -3,7 +3,7 @@
 * [摘要](README.md)
 * 案例練習
   * [01.登革熱疫情擴散地圖](ex01/README.md)
-    * step-01
+    * [step-01](ex01/step-01.md)
     * [step-02](ex01/step-02.md)
   * [02.登革熱病例統計地圖](ex02/README.md)
   * [03.登革熱疫情擴散App](ex03/README.md)
