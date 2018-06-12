@@ -11,7 +11,7 @@
     * [儲存地圖](ex01/step-06.md)
   * [02.登革熱病例統計地圖](ex02/README.md)
     * [將Shapefile變成雲端圖層服務](ex02/step-01.md)
-    * [step-02](ex02/step-02.md)
+    * [在圖台中加入全台鄉鎮界圖層](ex02/step-02.md)
     * step-03
     * step-04
     * step-05
