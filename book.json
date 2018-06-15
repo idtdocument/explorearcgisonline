@@ -1,5 +1,5 @@
 {
-    "plugins": ["expandable-chapters-interactive"],
+    "plugins": ["expandable-chapters-interactive", "-lunr", "-search", "search-pro"],
     "pluginsConfig": {
 	"expandable-chapters":{}
     }
